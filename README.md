@@ -95,7 +95,7 @@ This analysis helps stakeholders focus on high-value opportunities, reduce ineff
 
 🔹 How to Run This Project
 1. Clone the Repository
-git clone git clone https://github.com/sarkarrick51-2001/customer-trends-data-analysis-SQL-Python-PowerBI.git
+git clone git clone https://github.com/sarkarrick51-2001.git
 cd customer-trends-data-analysis-SQL-Python-PowerBI
 cd project-name
 2. Install Dependencies
