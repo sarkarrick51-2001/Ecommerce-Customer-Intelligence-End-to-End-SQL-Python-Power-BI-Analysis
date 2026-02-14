@@ -93,49 +93,8 @@ Translated technical analysis into clear business insights
 Business Impact:
 This analysis helps stakeholders focus on high-value opportunities, reduce inefficiencies, and support strategic planning.
 
-🔹 How to Run This Project
-1. Clone the Repository
-git clone git clone https://github.com/sarkarrick51-2001.git
-cd customer-trends-data-analysis-SQL-Python-PowerBI
-cd project-name
-2. Install Dependencies
-pip install -r requirements.txt
-3. Set Up Database
 
-Install PostgreSQL
-
-Create a database
-
-Import the dataset
-
-Update connection credentials in the project files
-
-4. Run Python Scripts
-
-Execute the data cleaning and preprocessing scripts before running SQL queries.
-
-5. Open Dashboard
-
-Launch the BI dashboard file to explore interactive insights.
-
-🔹 Project Structure
-/data          -> Raw and cleaned datasets  
-/sql           -> SQL queries  
-/python        -> Data cleaning scripts  
-/dashboard     -> BI dashboard file  
-/reports       -> Final report & presentation  
-
-🔹 Future Improvements
-
-* Automate data pipeline
-
-* Integrate real-time data
-
-* Enhance dashboard with predictive metrics
-
-* Deploy as a cloud-based analytics solution
-
- 👤 Author
+👤 Author
 
 Rick Dey Sarkar
 Aspiring Data Analyst skilled in SQL, Python, and Business Intelligence.
