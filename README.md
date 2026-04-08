@@ -1,100 +1,47 @@
-🔹 Overview
-This project demonstrates a complete data analytics workflow — from raw dataset to business insights. The objective was to transform unstructured data into meaningful recommendations that support smarter decision-making.
+# 📊 E-commerce Sales Analysis
 
-The project covers data cleaning, SQL analysis, exploratory data analysis (EDA), dashboard creation, and executive reporting.
+## 📌 Objective
+Analyze e-commerce data to identify revenue trends, customer behavior, and key business insights.
 
-🔹 Dataset
+---
 
-Source: Public dataset
+## 🛠 Tools Used
+- SQL  
+- Python (Pandas, Matplotlib)  
+- Power BI  
+- Excel  
 
-Size: 3901 rows × 18 columns
+---
 
-Domain: Ecommerce
+## 📂 Dataset
+- 10,000+ rows of sales data  
 
-Key Features:
+---
 
-* Customer / Transaction data
+## 🔍 Key Insights
+- Revenue drop linked to decline in Average Order Value (AOV)  
+- High discounts negatively impact profitability  
+- Top products contribute majority of revenue  
 
-* Revenue and profit metrics
+---
 
-* Product or service categories
+## 📈 Business Impact
+Optimizing pricing and product strategy can improve overall revenue and profit.
 
-Time-based information
+---
 
-🔹 Tools & Technologies
+## 📷 Dashboard Preview
+(Add your Power BI screenshot here)
 
-* Python — Data loading, cleaning, preprocessing
+---
 
-* PostgreSQL — Querying and analytical data extraction
+## 📁 Project Files
+- SQL queries  
+- Python analysis (.ipynb)  
+- Dataset  
+- Dashboard  
 
-* SQL — Aggregations
+---
 
-* BI Tool — Interactive dashboard creation
-
-* Gamma / PowerPoint — Executive presentation
-
-
-🔹 Project Workflow
-✅ 1. Data Loading & Cleaning
-
-* Imported dataset using Python
-
-* Handled missing values and duplicates
-
-* Standardized formats and corrected data types
-
-* Prepared analysis-ready tables
-
-✅ 2. SQL Analysis
-
-* Wrote optimized queries to answer key business questions
-
-* Performed joins and aggregations
-
-Identified trends, high-performing segments, and risk areas
-
-✅ 3. Exploratory Data Analysis (EDA)
-
-* Analyzed distributions and patterns
-
-* Detected anomalies and outliers
-
-* Discovered relationships between important variables
-
-✅ 4. Dashboard Development
-
-* Built a dynamic BI dashboard to track:
-
-* KPI metrics
-
-* Revenue and profitability trends
-
-* Customer or product performance
-
-* Segment-level insights
-
-The dashboard enables stakeholders to quickly monitor performance and make data-driven decisions.
-
-✅ 5. Reporting & Presentation
-
-Compiled findings into a structured analytical report
-
-Created an executive-ready presentation using Gamma
-
-Translated technical analysis into clear business insights
-
-🔹 Key Results
-
-✔ Identified major factors influencing revenue and profitability
-✔ Highlighted top-performing segments and underperforming areas
-✔ Provided actionable recommendations to improve business outcomes
-✔ Delivered a visual dashboard for ongoing monitoring
-
-Business Impact:
-This analysis helps stakeholders focus on high-value opportunities, reduce inefficiencies, and support strategic planning.
-
-
-👤 Author
-
-Rick Dey Sarkar
-Aspiring Data Analyst skilled in SQL, Python, and Business Intelligence.
+## 🚀 Conclusion
+This project demonstrates how data analysis can drive better business decisions.
