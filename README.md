@@ -30,7 +30,10 @@ Optimizing pricing and product strategy can improve overall revenue and profit.
 
 ---
 
+## 📷 Dashboard Preview
+(Add your Power BI screenshot here)
 
+---
 
 ## 📁 Project Files
 - SQL queries  
