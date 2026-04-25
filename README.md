@@ -1,8 +1,8 @@
-# 📊 E-commerce Sales Analysis
+# E-commerce Sales & Customer Insights Dashboard
 
-## 📌 Objective
-Analyze e-commerce data to identify revenue trends, customer behavior, and key business insights.
+## 📊 Project Overview
 
+This project analyzes e-commerce customer behavior and sales data to identify key trends, revenue drivers, and opportunities for improving profitability and customer engagement.
 ---
 
 ## 🛠 Tools Used
@@ -19,9 +19,11 @@ Analyze e-commerce data to identify revenue trends, customer behavior, and key b
 ---
 
 ## 🔍 Key Insights
-- Revenue drop linked to decline in Average Order Value (AOV)  
-- High discounts negatively impact profitability  
-- Top products contribute majority of revenue  
+
+- Clothing category generates the highest revenue and sales, indicating strong demand  
+- 73% of customers are non-subscribers, highlighting a major opportunity for conversion  
+- Young adult segment contributes the most to overall sales  
+- Lower performance in accessories and footwear suggests pricing or marketing gaps  
 
 ---
 
